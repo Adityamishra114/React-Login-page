@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Login-page/static/css/main.fbad3c4e.css",
+    "main.js": "/React-Login-page/static/js/main.87b38457.js",
+    "static/media/background.jpg": "/React-Login-page/static/media/background.e6562ea8c4da699f619f.jpg",
+    "index.html": "/React-Login-page/index.html",
+    "main.fbad3c4e.css.map": "/React-Login-page/static/css/main.fbad3c4e.css.map",
+    "main.87b38457.js.map": "/React-Login-page/static/js/main.87b38457.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbad3c4e.css",
+    "static/js/main.87b38457.js"
+  ]
+}
